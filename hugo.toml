@@ -1,4 +1,4 @@
-baseURL = "https://example.github.io/"
+baseURL = "https://langlangblog.netlify.app/"
 languageCode = "zh-cn"
 title = "我的个人网站"
 theme = "hugo-theme-den"
